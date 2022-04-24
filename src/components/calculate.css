@@ -1,0 +1,21 @@
+.MuiButton-label {
+    margin-left: 22%;
+    font-size: x-large;
+}
+  
+.MuiButton-containedPrimary {
+    height: 60px;
+    width: 150px;
+    background-color: #0721b8 !important;
+}
+  
+table {
+    border: 5px solid black;
+    margin: 40px auto;
+}
+  
+.MuiInputBase-input {
+    color: white !important;
+    margin-left: 10px !important;
+    font-size: 50px !important;
+}  
